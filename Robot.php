@@ -12,15 +12,15 @@
 	$telegram_api = " T * O * K * E * N ";
 	define('API',$telegram_api);
 	// Robot Administrator
-	$ADMINS = ['66488544','180191663'];
+	$ADMINS = ['********','********'];
 	// Attach Channel
-  $attachChannel = "@tgAttach";
+  $attachChannel = "@*****";
 	// Your Channel
-	$MyChannel = "@tgMember";
-	// Advertising
+	$MyChannel = "@*******";
+	// Advertising - for example: @User | @Channel
 	$ADV = "
 	-------------------
-	👨🏻‍💻 @tgMember | @sajjad_021
+	👨🏻‍💻 @******* | @********
 	";
 	
 	function curl($url,$timeout=7){		
